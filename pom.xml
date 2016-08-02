@@ -13,8 +13,8 @@
   <groupId>digital.upgrade</groupId>
   <artifactId>businessclassification</artifactId>
   <packaging>jar</packaging>
-  <name>Business classification based on thompson routers business classification</name>
-  <version>4.6.1</version>
+  <name>Business classification based on thompson routers business classification among others</name>
+  <version>1.0.0</version>
 
   <dependencies>
 
